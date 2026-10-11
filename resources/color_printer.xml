@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="color.xslt"?>
+<XMLConfigSettings>
+	<FILEINFO author="HippoEDIT.com" type="ColorPalette" descr="Color palette for HippoEDIT"/>
+	<PALETTE name="Printer Friendly" preview="img/printer_friendly.png">
+		<Index name="Strings" color="#66666600" fore="true"/>
+		<Index name="Comments" color="#80808000" fore="true"/>
+		<Index name="Window Text" color="#00000000" fore="true"/>
+		<Index name="Window Back" color="#FFFFFF00" fore="true"/>
+		<Index name="Keyword" color="#00000000" fore="true"/>
+    <Index name="Output Window Back" color="$0500" fore="true"/>
+    <Index name="Output Window Text" color="$0800" fore="true"/>
+    <Index name="Tooltip Back" color="$1800" fore="true"/>
+    <Index name="Tooltip Text" color="$1700" fore="true"/>
+  </PALETTE>
+</XMLConfigSettings>

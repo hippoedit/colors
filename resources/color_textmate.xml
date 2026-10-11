@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="color.xslt"?>
+<XMLConfigSettings>
+  <FILEINFO author="HippoEDIT.com" type="ColorPalette" descr="Color palette for HippoEDIT"/>
+  <PALETTE name="TextMate" preview="img/textmate.png">
+    <Index name="Alternating" color="#C0C0C0D8" fore="true" back="true"/>
+    <Index name="Nesting Levels" color="#888888F0" fore="true"/>
+    <Index name="Operator" color="#7D9EC000" fore="true"/>
+    <Index name="Window Text" color="#FFFFFF00" fore="true"/>
+    <Index name="Format tag" color="#7B7BC000" fore="true"/>
+    <Index name="Line Number" color="#2B91AF00" fore="true"/>
+    <Index name="Window Back" color="#00000000" fore="true"/>
+    <Index name="Output Window Text" color="#00930000" fore="true"/>
+    <Index name="Output Window Back" color="#00000000" fore="true"/>
+    <Index name="Embedded Language 1 Back" color="#FFD9D9CC"/>
+    <Index name="Selected Text" color="$0900" fore="true"/>
+    <Index name="Selected Back" color="$0D4C" fore="true"/>
+    <Index name="Tooltip Text" color="$1700" fore="true"/>
+    <Index name="Tooltip Back" color="$1800" fore="true"/>
+    <Index name="Read Only Back" color="#28282800" fore="true"/>
+    <Index name="Selected Text Inactive" color="$1300" fore="true"/>
+    <Index name="Bookmark" color="#98FB9899" fore="true"/>
+    <Index name="Keyword2" color="#C3D0FC00" fore="true"/>
+    <Index name="Changed Indicator" color="#6CE26C33" fore="true"/>
+    <Index name="Keyword3" color="#FFC66D00" fore="true"/>
+    <Index name="Keyword4" color="#7B7BC000" fore="true"/>
+    <Index name="Outlining" color="#AEDBFF00" fore="true"/>
+    <Index name="Keyword5" color="#FFAD5B00" fore="true"/>
+    <Index name="Margin" color="$0F7F" fore="true"/>
+    <Index name="Changed/Saved Indicator" color="#FFEE6233" fore="true"/>
+    <Index name="Embedded Language 3 Back" color="#B4FFB4CC"/>
+    <Index name="Strings" color="#A5C25C00" fore="true"/>
+    <Index name="Inactive Code" color="#28282800" fore="true" back="true"/>
+    <Index name="Selected Back Inactive" color="$037F" fore="true"/>
+    <Index name="TODOs" color="#FF68204C" fore="true"/>
+    <Index name="Current Line" color="#BBE0FFC0" fore="true"/>
+    <Index name="Documentation" color="#68838B00" fore="true"/>
+    <Index name="Tag" color="#7B7BC000" fore="true"/>
+    <Index name="Comments" color="#C0C0C000" fore="true"/>
+    <Index name="Embedded Language 2 Back" color="#FFFFA0CC"/>
+    <Index name="Search Result" color="#AFEEEE66" fore="true"/>
+    <Index name="Incremental Search Result 1" color="#0093007F" fore="true" back="true"/>
+    <Index name="Incremental Search Result 2" color="#009300E5" fore="true" back="true"/>
+    <Index name="Matching Braces" color="#40E0D0B2" fore="true" back="true"/>
+    <Index name="Tag2" color="#80008000" fore="true"/>
+    <Index name="Number" color="#6897BB00" fore="true"/>
+    <Index name="Current Line Frame" color="#D2EBFF00" fore="true"/>
+    <Index name="Indentation Guides" color="#AEDBFF00" fore="true"/>
+    <Index name="Preprocessor" color="#8B8B0000" fore="true"/>
+    <Index name="Indentation Guides (Highlighted)" color="#229BFF00" fore="true"/>
+    <Index name="Keyword" color="#FF682000" fore="true"/>
+    <Index name="Error" color="#FF000000" fore="true"/>
+    <Index name="Outlining (Highlighted)" color="#229BFF00" fore="true"/>
+  </PALETTE>
+</XMLConfigSettings>
